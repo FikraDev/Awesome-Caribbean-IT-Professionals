@@ -16,9 +16,12 @@ Contributors are guided to add an individual's name and a link to their github p
 
 # Web Developers
 
-# Devops Engineers
+# DevOps Engineers
 
-* Dale Kurt Murray https://github.com/dalekurt
+* Dale-Kurt Murray 
+  * [Github](https://github.com/dalekurt)
+  * [Twitter](https://twitter.com/dalekurt)
+  * [Instagram](https://instagram.com/dalekurt)
 
 # Cyber Security Professionals
 
