@@ -1,4 +1,4 @@
-<img src="islands.jpg" width="650" height="450">
+<img src="islands.jpg" width="650" height="500">
 
 # Awesome-Caribbean-Developers
 A curated list of amazing software developer/engineers from the islands or with Caribbean heritage.
@@ -11,6 +11,7 @@ Contributors are guided to add an individual's name and a link to their github p
 # Software Engineers
 
 Joel Dean https://github.com/jd-alexander
+Cecil Phillip https://cecilphillip.com/
 
 # Web Developers
 
