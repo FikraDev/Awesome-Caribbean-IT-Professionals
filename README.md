@@ -10,15 +10,15 @@ Contributors are guided to add an individual's name and a link to their github p
 
 # Software Engineers
 
-Joel Dean https://github.com/jd-alexander
-Cecil Phillip https://cecilphillip.com/
+* Joel Dean https://github.com/jd-alexander
+* Cecil Phillip https://cecilphillip.com/
 
 # Web Developers
 
 # Devops Engineers
 
-Dale Kurt Murray https://github.com/dalekurt
+* Dale Kurt Murray https://github.com/dalekurt
 
 # Cyber Security Professionals
 
-Gavin Dennis https://gavindennis.com/
+* Gavin Dennis https://gavindennis.com/
