@@ -1,3 +1,5 @@
+<img src="islands.jpg" width="650" height="450">
+
 # Awesome-Caribbean-Developers
 A curated list of amazing software developer/engineers from the islands or with Caribbean heritage.
 
