@@ -12,6 +12,7 @@ Contributors are guided to add an individual's name and a link to their github p
 
 * Joel Dean https://github.com/jd-alexander
 * Cecil Phillip https://cecilphillip.com/
+* Khary Sharpe https://github.com/kharysharpe
 
 # Web Developers
 
